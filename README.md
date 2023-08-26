@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **sarathaarthiyan3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17mpD2CwQCI-6w5r_C4OJSuaoMRqVr6iT/view?usp=drivesdk](https://drive.google.com/file/d/17mpD2CwQCI-6w5r_C4OJSuaoMRqVr6iT/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
