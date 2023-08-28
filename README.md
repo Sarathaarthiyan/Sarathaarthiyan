@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathaarthiyan&label=Profile%20views&color=0e75b6&style=flat" alt="sarathaarthiyan" /> </p>
 
 - 👉 An aspiring Associate Software Engineer with a passion for crafting clean code and solving puzzles in the digital realm.
-- 💻 Currently honing my skills in [Python,MySQL,C & HTML] and [Machine Learning & Networking], I'm on a mission to turn complex problems into elegant solutions.
-- 🚀 When I'm not coding, you'll find me exploring the latest tech trends, collaborating on open-source projects, and fueling my creativity through [Travelling,Hearing Music].
+- 💻 Currently honing my skills in [Python, MySQL,CSS, JS & HTML] and [Machine Learning & Networking], I'm on a mission to turn complex problems into elegant solutions.
+- 🚀 When I'm not coding, you'll find me exploring the latest tech trends, collaborating on open-source projects and fueling my creativity through [Travelling & Hearing Music].
 - 🌟Let's connect and build the future, one line of code at a time! 
 - 📫 How to reach me **sarathaarthiyan3@gmail.com**
 
