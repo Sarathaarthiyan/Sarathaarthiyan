@@ -1,13 +1,13 @@
 <p align="Center"><img src="20230826_110552.jpg"></p>
 <h1 align="center">Hi 👋, I'm Sarath Aarthiyan</h1>
-<h3 align="center">An Aspiring Associate Software Engineer from India</h3>
+<h3 align="center">An Aspiring Associate Software Test Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="Coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathaarthiyan&label=Profile%20views&color=0e75b6&style=flat" alt="sarathaarthiyan" /> </p>
 
-- 👉 An aspiring Associate Software Engineer with a passion for crafting clean code and solving puzzles in the digital realm.
-- 💻 Currently honing my skills in [Python, MySQL,CSS, JS & HTML] and [Machine Learning & Networking], I'm on a mission to turn complex problems into elegant solutions.
+- 👉 An aspiring Associate Software Test Engineer with a passion for crafting clean code and solving puzzles in the digital realm.
+- 💻 Currently honing my skills in [My SQL, Manual Testing, API, Selenium and Core Java] and [Computer Networks and Internet Protocal], I'm on a mission to turn complex problems into elegant solutions.
 - 🚀 When I'm not coding, you'll find me exploring the latest tech trends, collaborating on open-source projects and fueling my creativity through [Travelling & Hearing Music].
 - 🌟Let's connect and build the future, one line of code at a time! 
 - 📫 How to reach me **sarathaarthiyan3@gmail.com**
