@@ -1,7 +1,7 @@
 <p align="Center"><img src="20230826_110552.jpg"></p>
 <h1 align="center">Hi 👋, I'm Sarath Aarthiyan</h1>
 <h3 align="center">An Aspiring Associate Software Test Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="Coding.gif">
+<img align="right" alt="Coding" width="400" src="Testing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathaarthiyan&label=Profile%20views&color=0e75b6&style=flat" alt="sarathaarthiyan" /> </p>
