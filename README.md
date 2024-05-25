@@ -1,6 +1,6 @@
 <p align="Center"><img src="20230826_110552.jpg"></p>
 <h1 align="center">Hi 👋, I'm Sarath Aarthiyan</h1>
-<h3 align="center">An Aspiring Associate Software Test Engineer from India</h3>
+<h3 align="center">Aspiring Software Test Engineer</h3>
 <img align="right" alt="Coding" width="400" src="Testing.gif">
 
 
