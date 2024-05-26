@@ -1,4 +1,4 @@
-<p align="Center"><img src="20240526_064942.jpg"></p>
+<p align="Center"><img src="20240526_071923.jpg"></p>
 <h1 align="center">Hi 👋, I'm Sarath Aarthiyan</h1>
 <h3 align="center">Aspiring Software Test Engineer</h3>
 <img align="right" alt="Coding" width="400" src="Testing.gif">
