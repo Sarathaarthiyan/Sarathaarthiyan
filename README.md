@@ -10,7 +10,7 @@
 - 💻 Currently honing my skills in [My SQL, Manual Testing, API, Selenium and Core Java], I'm on a mission to turn complex problems into elegant solutions.
 - 🚀 When I'm not coding, you'll find me exploring the latest tech trends, collaborating on open-source projects and fueling my creativity through [Travelling & Hearing Music].
 - 🌟Let's connect and build the future, one line of code at a time! 
-- 📫 How to reach me **sarathaarthiyan3@gmail.com**
+- 📫 How to reach me **sarathaarthiyan6@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
